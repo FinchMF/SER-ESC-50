@@ -4,4 +4,8 @@ pytorch - DSP - audio_classification
 
 - CURRENTLY WIP -
 
-will deploy classifier soon
+* will deploy classifier soon
+* To Run Current Training Program:
+    
+    bash run.sh
+
